@@ -1,0 +1,13 @@
+{
+  "name": "certificate-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "pdfkit": "^0.12.1"
+  }
+}
